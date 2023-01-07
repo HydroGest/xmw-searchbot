@@ -42,5 +42,8 @@ PORT = 8080 #mirai-http-api端口
 ```shell
 python3 main.py
 ```
-
 *请注意：结束程序QQ机器人将不会工作*
+
+## 使用
+
+在QQ群发送`木屋查功能列表`可以查看所有的功能。
