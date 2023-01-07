@@ -36,3 +36,11 @@ PORT = 8080 #mirai-http-api端口
 #=====================
 ```
 如果你不熟悉mirai-http-api，请阅读[mirai-http-api文档](https://github.com/project-mirai/mirai-api-http/blob/master/README.md)
+
+### 运行
+
+```shell
+python3 main.py
+```
+
+*请注意：结束程序QQ机器人将不会工作*
