@@ -2,6 +2,10 @@
 小码王社区查询QQ机器人
 ![GitHub](https://img.shields.io/github/license/HydroGest/xmw-searchbot)
 
+## 演示
+
+![](/demo.png)
+
 ## 安装
 本项目需要[Mirai](mamoe/mirai)以及[mirai-http-api](project-mirai/mirai-api-http)提供支持，请自行阅读[文档](https://github.com/mamoe/mirai/blob/dev/docs/ConsoleTerminal.md)进行配置。
 
